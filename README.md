@@ -1,30 +1,31 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This is a project I have been looking forward to for a while! I have alway's loved Apple products, they provide such great technologies for us! That is why I have been dying to build my own iOS app. 
 
-{Provide a description of your app.  Describe how to use the app.}
+This app is called Remember (may change the name later). This app allows you to input special events and their dates into the app. The app then displays a countdown so you know exactly how long you have until the date. 
 
-{Describe your purpose for creating this app.}
+Unlike my wife, I am very forgetful. This app will help me remember those special events like anniversaries, birthdays, holidays, etc..
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the app running and a walkthrough of the code.}
+Here is my demo of my project so far:
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/VNJ8bYVz6MY)
 
 # Development Environment
 
-{Describe the tools that you used to develop the app}
+This app was created using SwiftUI in the Swift language
 
-{Describe the programming language that you used and any libraries.}
+This was coded in Xcode
+
+Some packages include SwiftUI and CoreData packages
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [SwiftUI Documentation](https://developer.apple.com/documentation/swiftui/)
+* [Hacking with Swift](https://www.hackingwithswift.com/quick-start/swiftui/swiftui-tips-and-tricks)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Create an event for when the countdown reaches 0.
+* Create a widget so the countdown is visible on homescreen/lockscreen.
+* Change the layout to make it more pleasing to the eyes.
